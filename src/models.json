@@ -1,7 +1,7 @@
 [
   { "id": "gpt-4o", "name": "GPT-4o", "provider": "OpenAI" },
   { "id": "gpt-4o-mini", "name": "GPT-4o Mini", "provider": "OpenAI" },
-  { "id": "gemini-1.5-flash", "name": "Gemini Flash", "provider": "Google" },
+
   {
     "id": "mistral-large-latest",
     "name": "Mistral Large",
